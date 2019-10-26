@@ -1,0 +1,2 @@
+[Service]
+ExecStart=/usr/bin/vlc v4l2:///dev/video0 :v4l2-standard= :live-caching=0 :v4l2-fps=60.00
