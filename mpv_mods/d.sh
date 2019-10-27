@@ -1,2 +1,2 @@
 #!/bin/bash
-pkill vlc
+sudo killall mpv

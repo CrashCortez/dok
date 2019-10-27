@@ -1,2 +1,2 @@
 [Service]
-ExecStart=/usr/bin/vlc v4l2:///dev/video0 :v4l2-standard= :live-caching=0 :v4l2-fps=60.00
+ExecStart=/usr/bin/mpv /dev/video0 --fullscreen --profile=low-latency --fps=60  --framedrop=no --speed=1.21 --really-quiet 
