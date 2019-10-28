@@ -1,1 +1,1 @@
-ACTION=="remove", SUBSYSTEM=="video4linux", RUN+="/home/pi/d.sh"
+ACTION=="remove", SUBSYSTEM=="video4linux", RUN+="/home/pi/close.sh"
