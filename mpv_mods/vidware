@@ -601,4 +601,6 @@ mpv -version
 
 echo
 
-mpv --loop=9 Neutron_Stars_Colliding_1080p.mp4
+mpv --loop=1 Neutron_Stars_Colliding_1080p.mp4
+
+sudo reboot
